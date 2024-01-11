@@ -1,4 +1,4 @@
-[![MasterHead](https://i1.wp.com/www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif?strip=all)]
+![MasterHead](https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810)
 <h1 align="center">Hi 👋, I'm Uday Kumar Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
