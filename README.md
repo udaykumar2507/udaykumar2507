@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
-- 📫 How to reach me **uk25072004@gmail.cvom**
+- 📫 How to reach me **uk25072004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
